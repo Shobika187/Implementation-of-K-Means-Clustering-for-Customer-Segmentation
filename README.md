@@ -68,13 +68,23 @@ plt.title("Customer Segments")
 ![image](https://user-images.githubusercontent.com/94508142/204435220-1e6d062d-67d7-433b-984c-79ec469239fc.png)
 
 ![image](https://user-images.githubusercontent.com/94508142/204435269-11aa132c-aaf7-46b2-a1c9-e1ec5fe91ab7.png)
+
+
 ![image](https://user-images.githubusercontent.com/94508142/204435354-874683c6-dbc7-46ff-9140-f6b106af440a.png)
+
+
 ![image](https://user-images.githubusercontent.com/94508142/204435352-be87c5e2-806b-44f9-b902-c8aabd5560fe.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435474-0a3d94c3-8879-412e-8d9a-71900412a6f6.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435487-4e0eca63-11c0-47eb-8954-295c18a7084e.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435526-5eeb7e08-ff29-4df0-9971-29bfc87fb075.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435561-f8eaf97e-3b92-45f5-b7f2-6dcb429eef1a.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435603-b290fa01-7ce9-4c2c-a5b7-77adba89dcfb.png)
+
 ![image](https://user-images.githubusercontent.com/94508142/204435643-5c19f7ee-c7a9-4839-8646-a13b54f9b2a2.png)
 
 
